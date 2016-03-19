@@ -3,7 +3,7 @@ cta:
   version: null
   bucket: null
   domain: null
-layout_spectrum: 0.1964587
+layout_spectrum: 0.4249578
 favicon: null
 name: craig.camera
 purpose: []
@@ -29,9 +29,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 1
-  lightness: 0.0989975
-  saturation: 0.8897243
-  rhythmicContrast: 0.9066416
+  lightness: 0.8667791
+  saturation: 0.618887
+  rhythmicContrast: 0
   brandColors:
     - '#9A9A9A'
     - '#BDBDBD'
