@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5626566
+color:
+  lightness: 0.0989975
+  brandStrength: 0.7811818
+  saturation: 0.8897243
+  rhythmicContrast: 0.2447593
+  brandColors:
+    - '#9A9A9A'
+    - '#BDBDBD'
+    - '#020203'
+    - '#393939'
+    - '#FBFBFC'
+name: craig.camera
