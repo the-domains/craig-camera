@@ -31,11 +31,11 @@ color:
   brandStrength: 0.2529511
   lightness: 0.5213032
   saturation: 0.6929824
-  rhythmicContrast: 0
+  rhythmicContrast: 1
   brandColors:
     - '#9A9A9A'
     - '#BDBDBD'
     - '#020203'
     - '#393939'
     - '#FBFBFC'
-typography_spectrum: 0.5626566
+typography_spectrum: 0.3715539
