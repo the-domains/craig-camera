@@ -1,16 +1,16 @@
 title: craig.camera
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 layout_spectrum: 0.2305764
 favicon: null
 name: craig.camera
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -33,8 +33,9 @@ color:
   saturation: 0.5651629
   rhythmicContrast: 1
   brandColors:
-    - '#524C17'
-    - '#030002'
-    - '#777839'
-    - '#ABA45C'
+    - '#030003'
+    - '#FFFFFF'
+    - '#0000B4'
+    - '#BCC7B5'
+    - '#0191F2'
 typography_spectrum: 0.3715539
